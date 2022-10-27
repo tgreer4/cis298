@@ -1,0 +1,13 @@
+Player Johns Bobby with total score of 114
+Player Miller Sarah with total score of 127
+Player Jones Jessica with total score of 29
+Player Smith John with total score of 103
+Player Apple Cherries with total score of 78
+Player Matthews Christopher with total score of 42
+Player Adams Dominic with total score of 114
+Player Poppy Cheshire with total score of 122
+
+
+Player with highest score is Miller Sarah with 127.
+Player with lowest score is Jones Jessica with 29.
+Mean of total qualified scores: 91.6 Median of total qualified scores: 108.5
